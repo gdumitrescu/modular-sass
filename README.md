@@ -4,5 +4,5 @@
 
 ### Usage
 
- - a starting point for Sass files in a specific project
+ - a starting point for Sass files in a new project
  - import as submodule/subtree in other projects
